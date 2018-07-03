@@ -6,7 +6,7 @@
 
 ## Descripción
 
-Aplicación que consiste en pedir un número mediante interfaz gráfica y mediante un mensaje conocer si el número es tringular, cuadrado o ningún caso. Es decir, si es divisible entre tres y/o su ráiz cuadrada tiene como resultado un número entero. Es posible que el número introducido no contemple ninguno de estos casos.
+Aplicación que consiste en introducir un número por interfaz gráfica y mediante un mensaje conocer si el número es tringular, cuadrado o ningún caso. Es decir, si es divisible entre tres y/o su ráiz cuadrada tiene como resultado un número entero. Es posible que el número introducido no contemple ninguno de estos casos.
 
 
 ## Motivación
