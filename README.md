@@ -1,7 +1,7 @@
 # NumberShapes
 ### Square, Triangle, or neither.
 
-<img src="https://github.com/Antonio1138/Conversor_Moneda/blob/master/app/src/main/res/drawable/currency.jpeg" alt="notes"
+<img src="https://github.com/Antonio1138/NumberShapes/blob/master/shapes.jpeg" alt="notes"
   width="300" height="150"/>
 
 ## Descripción
