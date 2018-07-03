@@ -2,7 +2,7 @@
 ### Square, Triangle, or neither.
 
 <img src="https://github.com/Antonio1138/NumberShapes/blob/master/shapes.jpeg" alt="notes"
-  width="300" height="300"/>
+  width="450" height="300"/>
 
 ## Descripción
 
